@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 change from local
 
+=======
+change from the remote 
+>>>>>>> 5605ac2312b10baaa7369ec97c3f8854392e75aa
